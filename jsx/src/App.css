@@ -1,0 +1,41 @@
+.rourou{
+  border:"solid 1px black";
+  max-width:100vw;
+}
+.title{
+  text-align: center;
+  font-size: 45px;
+  font-weight: normal;
+}
+.red{
+  color:red;
+}
+.blue {
+  color: darkblue;
+  text-shadow:4px 2px 6px gray;
+}
+.ta7yatounes {
+  color: red;
+  text-align: center;
+}
+.piiiip {
+  color: red;
+  text-align: center;
+}
+.coucou{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+img{
+  width:300px;
+  height:200px;
+  border-radius: 70%;
+}
+.mika {
+  border-radius: 0%; 
+  justify-content: center;
+  width: 200px;
+  height: 150px;
+}
